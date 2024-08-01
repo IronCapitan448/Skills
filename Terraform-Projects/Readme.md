@@ -48,6 +48,9 @@ Variables.tf is where you declare what vairables you are gonna use in your main.
 
 > ## Version_Constraints_&_Aliases
 
+> ## Resource_Target
+> > can target each block while applying to make sure you can deploy targeted resource only. 
+
 > ## AWS
 
 > ## Azure
