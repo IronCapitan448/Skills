@@ -31,8 +31,8 @@ import (
 const baseurl = "http://gateway.marvel.com/v1/public/comics"
 
 // baseURL    = "http://gateway.marvel.com/v1/public/comics"
-const publickey = "0f7aafd577a99485555dc5a643f47926"
-const privatekey = "b4e249d6edd8ccaec400d3186f4a74ae9cd51fc3"
+const publickey = "<yourkey>"
+const privatekey = "<yourkey>"
 
 type Titles struct {
 	Title string `json:"title"`
